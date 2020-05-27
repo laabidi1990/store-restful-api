@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/Restful-Api":{"type":null,"mount_options":["uid=1000","gid=1000"],"guestpath":"/home/vagrant/Restful-Api","hostpath":"C:/wamp64/www/Restful-Api","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/wamp64/www/Restful-Api","disabled":false,"__vagrantfile":true}}}
